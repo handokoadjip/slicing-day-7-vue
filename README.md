@@ -1,4 +1,4 @@
-# day-1-vue
+# Designspiration | Chilli
 
 ## Project setup
 ```
